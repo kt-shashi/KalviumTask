@@ -17,9 +17,8 @@ Task 2: Build a image resize app. The user upload an image and selects width and
 
 ## Features
 
-* Select image from Gallery
-* Crop (Multiple options to crop)
-* Save to Phone
+- Select image from Gallery
+- Crop (Multiple options to crop)
+- Save to Phone
 
 </div>
-
