@@ -13,6 +13,15 @@ Task 2: Build a image resize app. The user upload an image and selects width and
 
 </div>
 
+<div align="center">
+
+<br>
+
+Download .apk - [**Click here**](https://github.com/kt-shashi/KalviumTask/blob/main/apk/Task.apk)
+
+</div>
+
+
 <div align="left">
 
 ## Features
